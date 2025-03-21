@@ -37,5 +37,10 @@
     "@types/node": "^18.7.13"
   },
   "dependencies": {
+    "@protorians/animetric": "workspace:",
+    "@protorians/colorimetric": "workspace:",
+    "@protorians/core": "workspace:",
+    "@protorians/shortcuts": "workspace:",
+    "@protorians/widgets": "workspace:"
   }
 }
