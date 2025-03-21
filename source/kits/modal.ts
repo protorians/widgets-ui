@@ -7,7 +7,6 @@ import {
     Override,
     PopupType,
     PositionX, PositionY, Structurable, WidgetElevation,
-
 } from "@protorians/widgets";
 import type {IModal, IModalElevation, IModalLayer, IModalLayout, IModalOptions} from "../types/modal.js";
 import {IAnimetricGroup, IAnimetricSlimOptions, slimetric} from "@protorians/animetric";
